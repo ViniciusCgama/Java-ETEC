@@ -1,0 +1,6 @@
+package br.com.escola.beans.model;
+
+public class Pessoa {
+	String nome;
+	int idade;
+}
